@@ -1,3 +1,3 @@
 # python_codes_practice
 
-[length of longest string]
+[](length of longest string)
